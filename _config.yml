@@ -1,5 +1,6 @@
-title: Myasia Reads
+title: Myasia's Reads & Projects
 description: "My personal space for books, cybersecurity, and creative hobbies."
-author: Myasia
-# We will use a clean, popular minimalist theme built for Jekyll
+
 theme: minima
+url: "https://myasiareads.github.io"
+baseurl: ""
